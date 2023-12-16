@@ -1,0 +1,1 @@
+python training.py --model_dir /mnt/workspace/nlp/models/bert-base-chinese
